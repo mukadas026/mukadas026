@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 FrontEnd Developer passionate about building with JavaScript & React ⚛️, Svelte 🎉 and TailwindCSS | Let's connect and collaborate.
+👨‍💻 FrontEnd Developer passionate about building with JavaScript & React ⚛️ and TailwindCSS | Let's connect and collaborate.
 
 
 ## 🌐 Socials:
